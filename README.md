@@ -1,3 +1,3 @@
 # SelectifyAi-colab-Notebook
 
-model trainin
+model training
